@@ -111,10 +111,4 @@ SHOPIFY_STORE_DOMAIN=your-store.myshopify.com
 SHOPIFY_STOREFRONT_ACCESS_TOKEN=xxxxx
 ```
 
-Storefront Access Token は Shopify 管理画面の「Apps」→「Develop apps」から発行できる。
-
----
-
-## License
-
-Private repository. Not for redistribution.
+Storefront Access Token は Shopify 管理画面の「Apps」→「Develop apps」から発行。
